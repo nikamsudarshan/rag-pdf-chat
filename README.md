@@ -92,6 +92,3 @@ I am a **Mechatronics Engineering student** at **New Horizon Institute of Techno
 
 As the founding member of the **ARMORY Robotics Club**, I am passionate about building end-to-end R&D projects—ranging from hexapod kinematics to AI-driven document intelligence. My goal is to leverage my background in hardware-software integration to contribute to cutting-edge research in autonomous systems and applied AI.
 
----
-
-**Would you like me to help you draft a specific "Research Methodology" section or a custom `requirements.txt` for your internship application?**
